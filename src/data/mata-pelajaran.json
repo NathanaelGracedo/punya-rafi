@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "image": "/matematika.jpg",
+    "title": "Matematika",
+    "description": "Mengasah kemampuan berpikir logis dan pemecahan masalah dengan pendekatan angka dan teori."
+  },
+  {
+    "id": "1",
+    "image": "/fisika.jpg",
+    "title": "Fisika",
+    "description": "Menjelajahi prinsip dasar alam semesta dengan mempelajari gerak, energi, gaya, dan hukum-hukum alam."
+  },
+  {
+    "id": "1",
+    "image": "/kimia.jpg",
+    "title": "Kimia",
+    "description": "Mengungkap rahasia dunia molekul dan atom melalui analisis reaksi kimia, sifat-sifat zat, dan perubahan materi."
+  },
+  {
+    "id": "1",
+    "image": "/biologi.jpg",
+    "title": "Biologi",
+    "description": "Mempelajari kehidupan dalam segala bentuknya, mulai dari sel terkecil hingga ekosistem yang kompleks."
+  }
+]
